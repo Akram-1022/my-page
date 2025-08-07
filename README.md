@@ -1,0 +1,2 @@
+# my-page
+basic page
